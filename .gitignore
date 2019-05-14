@@ -1,0 +1,8 @@
+db.lock
+.vs/SoundTransitTwitterUpdates/xs/sqlite3/storage.ide
+.vs/SoundTransitTwitterUpdates/xs/sqlite3/storage.ide-shm
+.vs/SoundTransitTwitterUpdates/xs/sqlite3/storage.ide-wal
+src/SoundTransitTwitterUpdates/bin
+src/SoundTransitTwitterUpdates/obj
+test/SoundTransitTwitterUpdates/bin
+test/SoundTransitTwitterUpdates/obj
